@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome e ícaro sou um entusiasta de programação e sou ex aprendiz cibersegurança e fiz uma mudança brusca para a programação de baixo nivel de hardware e software.
+My name is Ícaro; I am a programming enthusiast and a former cybersecurity apprentice who made a drastic shift toward low-level hardware and software programming.
 
 
 ## 🌐 Socials:
