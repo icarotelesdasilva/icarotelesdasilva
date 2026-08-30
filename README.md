@@ -33,7 +33,11 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img width="52" height="28" alt="image" src="https://github.com/user-attachments/assets/73d03439-687d-4497-8187-65a5907c3159" />
+  <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/027779c4-d937-4ca5-9d3b-884992e02fea" />
+  <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/6bdbb1a3-4811-4956-bf41-f813550b5288" />
+
+
 
 </p>
 
