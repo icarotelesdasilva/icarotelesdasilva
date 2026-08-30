@@ -31,7 +31,7 @@
 
 ##  Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Programming Languages & Tools</h3>
 <p align="center">
   <img width="52" height="28" alt="image" src="https://github.com/user-attachments/assets/73d03439-687d-4497-8187-65a5907c3159" />
   <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/027779c4-d937-4ca5-9d3b-884992e02fea" />
