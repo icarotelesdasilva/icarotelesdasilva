@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=icaro%20Teles%20da%20Silva%20Ribeiro&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Low%20level%20developer%20systems%20engineer%20and%20cpu.&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Icaro%20Teles%20da%20Silva%20Ribeiro&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Low%20level%20developer%20systems%20engineer%20and%20cpu.&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=icarotelesdasilva">
