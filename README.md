@@ -7,7 +7,9 @@
 </p>
 
 ##  About Me
-- Currently low-level developer Systems and hardware engineer
+- Currently low-level developer Systems and hardware engineer not professional.
+- I am currently 14 years old
+- I program low level for hobby and fun
 
 
 ##  My Focus Areas
