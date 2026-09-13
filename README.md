@@ -10,7 +10,7 @@
 - Currently low-level developer Systems and hardware engineer not professional.
 - I am currently 14 years old
 - I program low level for hobby and fun
-
+- I am a Brazilian developer.
 
 ##  My Focus Areas
 - kernel development
