@@ -19,26 +19,14 @@
 - Hardware Engineering
 
 
-##  GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/icarotelesdasilva">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=icarotelesdasilva&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="icarotelesdasilva's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=icarotelesdasilva&theme=radical&hide_border=true&cache_seconds=86400" alt="icarotelesdasilva's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=icarotelesdasilva&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="icaro Teles da Silva Ribeiro's GitHub Trophies" />
-</p>
+## Skills
 
-
-##  Languages & Tools
-
-<h3 align="center">Programming Languages & Tools</h3>
-<p align="center">
-  <img width="52" height="28" alt="image" src="https://github.com/user-attachments/assets/73d03439-687d-4497-8187-65a5907c3159" />
-  <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/027779c4-d937-4ca5-9d3b-884992e02fea" />
-  <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/6bdbb1a3-4811-4956-bf41-f813550b5288" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+| Technology | Level |
+|:---:|:---:|
+| ![Assembly](https://img.shields.io/badge/ASSEMBLY-000000?style=for-the-badge&logo=assemblyscript&logoColor=white) | Advanced |
+| ![C](https://img.shields.io/badge/C-2557A0?style=for-the-badge&logo=c&logoColor=white) | Intermediate |
+| ![Verilog](https://img.shields.io/badge/VERILOG-2E8B57?style=for-the-badge) | Beginner |
+| ![C++](https://img.shields.io/badge/C++-2557A0?style=for-the-badge&logo=cplusplus&logoColor=white) | Beginner |
 
 
 
