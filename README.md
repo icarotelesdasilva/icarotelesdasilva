@@ -21,13 +21,6 @@ I am 14 years old and a developer focused on low-level programming and systems a
   | ![C++](https://img.shields.io/badge/C++-2557A0?style=for-the-badge&logo=cplusplus&logoColor=white) | Beginner |
 
 
-## in case you want to contact me
-
-e-mail: icrcontact450@gmail.com
-discord: icr09
-tiktok: icr778
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
