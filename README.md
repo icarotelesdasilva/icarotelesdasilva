@@ -7,7 +7,7 @@
 </p>
 
 ##  About Me
-I am 14 years old and a developer focused on low-level programming and systems architecture. My passion lies in understanding how code interacts directly with hardware—covering a broad development scope, from memory manipulation to the automation of complex scripts—all as a pure hobby.
+I am 14 years old and a developer focused on low-level programming and systems architecture. My passion lies in understanding how code interacts directly with hardware covering a broad development scope, from memory manipulation to the automation of complex scripts—all as a pure hobby.
 
 
 
