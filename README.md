@@ -24,18 +24,10 @@
 | Technology | Level |
 |:---:|:---:|
 | ![Assembly](https://img.shields.io/badge/ASSEMBLY-000000?style=for-the-badge&logo=assemblyscript&logoColor=white) | Advanced |
-| ![C](https://img.shields.io/badge/C-2557A0?style=for-the-badge&logo=c&logoColor=white) | Intermediate |
+| ![C](https://img.shields.io/badge/C-2557A0?style=for-the-badge&logo=c&logoColor=white) | advanced |
 | ![Verilog](https://img.shields.io/badge/VERILOG-2E8B57?style=for-the-badge) | Beginner |
 | ![C++](https://img.shields.io/badge/C++-2557A0?style=for-the-badge&logo=cplusplus&logoColor=white) | Beginner |
 
-
-
-
-<p align="center">
-  <a href="https://github.com/icarotelesdasilva">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icarotelesdasilva&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
