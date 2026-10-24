@@ -15,12 +15,14 @@ My focus is of a low level in terms of real purpose.
 
 ## Skills
 
-        | Technology | Level |
-        |:---:|:---:|
-        | ![Assembly](https://img.shields.io/badge/ASSEMBLY-000000?style=for-the-badge&logo=assemblyscript&logoColor=white) | Advanced |
-        | ![C](https://img.shields.io/badge/C-2557A0?style=for-the-badge&logo=c&logoColor=white) | advanced |
-        | ![Verilog](https://img.shields.io/badge/VERILOG-2E8B57?style=for-the-badge) | Beginner |
-        | ![C++](https://img.shields.io/badge/C++-2557A0?style=for-the-badge&logo=cplusplus&logoColor=white) | Beginner |
+| Technology | Level |
+|:---:|:---:|
+| ![Assembly](https://img.shields.io/badge/ASSEMBLY-000000?style=for-the-badge&logo=assemblyscript&logoColor=white) | advanced |
+| ![C](https://img.shields.io/badge/C-2557A0?style=for-the-badge&logo=c&logoColor=white) | advanced |
+| ![Verilog](https://img.shields.io/badge/VERILOG-2E8B57?style=for-the-badge) | Beginner |
+| ![C++](https://img.shields.io/badge/C++-2557A0?style=for-the-badge&logo=cplusplus&logoColor=white) | Beginner |
+
+
 
 
 <p align="center">
